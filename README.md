@@ -1,2 +1,0 @@
-# ideaKeeper
-Created with CodeSandbox
